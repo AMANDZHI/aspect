@@ -12,9 +12,10 @@ public class DemoAspectsApplicationTests {
 
 	@Test
 	public void testLoggable() {
-		service.say("gogo");
-		service.jump();
-		service.getAnswer();
+//		service.say("gogo");
+//		service.jump();
+//		service.getAnswer();
+		service.enter("pswa");
 	}
 
 }
